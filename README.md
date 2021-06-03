@@ -1,1 +1,4 @@
-# Main instructions for this template.
+# Django app: upgraded-sniffle
+# upgraded-sniffle is so cool.
+
+# Repo description: .
